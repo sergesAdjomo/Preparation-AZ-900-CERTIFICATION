@@ -1,72 +1,75 @@
-# 📘 Préparation AZ-900 Certification – Microsoft Azure Fundamentals  
+# ☁️ Préparation Certification Microsoft AZ-900 – Azure Fundamentals  
 
-![Status](https://img.shields.io/badge/Status-In%20Progress-blue)  
-![Exam](https://img.shields.io/badge/Exam-AZ--900-blueviolet?logo=microsoftazure)  
-![Made With](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)  
-![License](https://img.shields.io/badge/License-Personal-yellow)  
-
-Bienvenue dans ce dépôt qui contient mes **fiches de révision** et **quiz d’entraînement** pour préparer l’examen **AZ-900 Microsoft Azure Fundamentals**.  
+<p align="center">
+  <img src="https://learn.microsoft.com/fr-fr/media/learn/certification/badges/microsoft-certified-fundamentals-badge.svg" alt="AZ-900 Badge" width="150"/>
+</p>
 
 ---
 
-## 🎯 Objectif
-- Avoir des résumés clairs et concis pour chaque module.  
-- Disposer de supports pratiques (quiz + corrigés).  
-- Centraliser toutes les notes au même endroit pour une révision rapide.  
+## 📌 Présentation
+
+Bienvenue dans ce dépôt dédié à la **préparation de l’examen AZ-900 : Microsoft Azure Fundamentals**.  
+L’objectif est de fournir des **fiches de révision claires**, des **quiz pratiques** et des **liens utiles** pour réussir l’examen.  
+
+Cet examen est un **point de départ** idéal pour découvrir Azure et commencer un parcours vers une carrière dans le cloud.  
 
 ---
 
-## 📂 Structure du dépôt
+## 🧾 Détails de l’examen
 
-- `calcul-et-reseau.md`  
-  ➝ Résumés sur les services de **calcul** (VM, conteneurs, fonctions) et de **mise en réseau** (VNet, VPN, ExpressRoute, DNS).  
+- **Niveau** : Débutant  
+- **Produit** : Microsoft Azure  
+- **Rôle cible** : Administrateurs, Développeurs, Étudiants, Toute personne découvrant Azure  
+- **Durée** : ~ 45 minutes  
+- **Prix** : ~ 76 EUR (selon la région)  
+- **Langues disponibles** : Français, Anglais, Espagnol, Allemand, Italien, Japonais, Chinois, Portugais, Arabe, Russe, etc.  
 
-- `Infrastructure Azure (physique + gestion + résumé).md`  
-  ➝ Résumés sur l’**infrastructure physique** (datacenters, régions, zones, paires de régions, régions souveraines) et sur l’**infrastructure de gestion** (ressources, groupes de ressources, abonnements, groupes d’administration).  
+---
 
-- (à venir) `securite-et-identite.md`  
-  ➝ Notes et quiz sur **Azure Identity, RBAC, Entra ID, sécurité et gouvernance**.  
+## 🎯 Compétences mesurées
 
-- (à venir) `services-supplementaires.md`  
-  ➝ Notes sur **monitoring, coûts, support, SLA, lifecycles, etc.**  
+L’examen AZ-900 évalue votre capacité à :  
+
+1. **Décrire les concepts cloud**  
+2. **Décrire l’architecture et les services Azure**  
+3. **Décrire la gestion et la gouvernance Azure**  
+
+---
+
+## 📂 Structure de ce dépôt
+
+- `calcul-et-reseau.md` → Résumés sur **Compute et Networking** (VM, Conteneurs, Fonctions, VNet, VPN, ExpressRoute, DNS).  
+- `Infrastructure Azure (physique + gestion + résumé).md` → Notes sur l’**infrastructure physique** (datacenters, régions, zones, paires de régions) et **de gestion** (ressources, abonnements, groupes d’administration).  
+- (à venir) `securite-identite.md` → Notes sur **Microsoft Entra ID, RBAC, Sécurité, Gouvernance**.  
+- (à venir) `couts-et-support.md` → Résumés sur **SLA, Pricing, Monitoring, Support Plans**.  
 
 ---
 
 ## 📝 Contenu
 
-Chaque fichier contient :  
-- ✅ Un résumé simplifié des points clés.  
-- 📊 Tableaux ou schémas hiérarchiques (quand nécessaire).  
-- 📝 Un mini-quiz basé sur les objectifs du module.  
-- ✅ Correction en bas du fichier.  
+Chaque fichier `.md` contient :  
+- ✅ Un **résumé condensé** des notions clés.  
+- 📊 Des **schémas/hiérarchies** (quand nécessaire).  
+- 📝 Un **mini-quiz** basé sur les objectifs du module.  
+- ✅ Une **correction en bas** pour l’auto-évaluation.  
 
 ---
 
-## 📚 Progression actuelle
+## 📖 Ressources utiles
 
-- [x] Calcul & Réseau  
-- [x] Infrastructure Azure (physique + gestion)  
-- [ ] Sécurité, identité et gouvernance  
-- [ ] Surveillance, coûts et SLA  
-- [ ] Module final : révisions globales + quiz complet  
+- [📘 Guide officiel Microsoft AZ-900](https://learn.microsoft.com/fr-fr/certifications/exams/az-900/)  
+- [🎯 Microsoft Learn – Parcours AZ-900](https://learn.microsoft.com/fr-fr/training/courses/az-900t01)  
+- [📝 Exemples de questions pratiques](https://learn.microsoft.com/fr-fr/certifications/resources/study-guides/az-900)  
 
 ---
 
-## 💡 Utilisation
+## 🚀 Conseils pour réussir
 
-1. Parcourir les fichiers `.md` module par module.  
-2. Faire les quiz **sans regarder la correction**.  
-3. Vérifier les réponses pour consolider les connaissances.  
-4. Avant l’examen → reprendre les **résumés condensés** comme fiches de révision rapides.  
-
----
-
-## 📖 Ressources complémentaires
-
-- [Microsoft Learn – AZ-900](https://learn.microsoft.com/fr-fr/certifications/exams/az-900/)  
-- [Documentation Azure](https://learn.microsoft.com/fr-fr/azure/?product=popular)  
-- [Exemples de questions pratiques AZ-900](https://learn.microsoft.com/fr-fr/certifications/resources/study-guides/az-900)  
+1. Parcourir chaque fiche de ce dépôt module par module.  
+2. Faire les **quiz** sans regarder les corrections.  
+3. Reprendre les **résumés condensés** la veille de l’examen.  
+4. Tester vos connaissances avec un **practice test** officiel.  
 
 ---
 
-✍️ *Projet personnel de préparation à l’examen AZ-900. Les notes sont destinées à la révision rapide et ne remplacent pas la documentation officielle Microsoft.*
+✍️ *Projet personnel de préparation à l’examen AZ-900. Ces notes sont destinées à la révision rapide et ne remplacent pas la documentation officielle Microsoft.*
