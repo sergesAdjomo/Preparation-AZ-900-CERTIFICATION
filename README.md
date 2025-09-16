@@ -73,3 +73,5 @@ Chaque fichier `.md` contient :
 ---
 
 ✍️ *Projet personnel de préparation à l’examen AZ-900. Ces notes sont destinées à la révision rapide et ne remplacent pas la documentation officielle Microsoft.*
+
+Auteur : Serges Adjomo.
