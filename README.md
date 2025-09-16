@@ -1,6 +1,11 @@
-# 📘 Préparation AZ-900 Certification – Microsoft Azure Fundamentals
+# 📘 Préparation AZ-900 Certification – Microsoft Azure Fundamentals  
 
-Bienvenue dans ce dépôt qui contient mes **fiches de révision** et **quiz d’entraînement** pour préparer l’examen **AZ-900 Microsoft Azure Fundamentals**.
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue)  
+![Exam](https://img.shields.io/badge/Exam-AZ--900-blueviolet?logo=microsoftazure)  
+![Made With](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red)  
+![License](https://img.shields.io/badge/License-Personal-yellow)  
+
+Bienvenue dans ce dépôt qui contient mes **fiches de révision** et **quiz d’entraînement** pour préparer l’examen **AZ-900 Microsoft Azure Fundamentals**.  
 
 ---
 
